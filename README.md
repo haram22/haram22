@@ -26,14 +26,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>
-          <h3> Soda Developer team leader (2021.06~)</h3>
-          <h6><a href="https://www.notion.so/SODA-dca6be8fff894261bb8880318303e3a7" title="소다 소개 페이지">📍 소다 소개 페이지 보러가기</a></h6>
-          <img align="center" src="3.jpg" width="500px" alt-text="소다 0기 사진">
-      </td>
-      <td>
-          <h3> Walab team Member (2021.04~)</h3>
-          <h6><a href="https://csee.handong.edu/2021/02/slab-%EC%86%8C%EA%B0%9C-%EA%B9%80%EA%B4%91-%EC%9E%A5%EC%86%8C%EC%97%B0-%EA%B5%90%EC%88%98%EB%8B%98-%EB%9E%A9%EC%8B%A4-wa-lab/" title="랩실 소개 article">📍 와랩 소개 아티클 보러가기</a></h6>
-          <img align="center" src="2.jpeg" width="500px" alt-text="와랩 팀 사진">
+          
       </td>
     </tr>
   </tbody>
@@ -66,4 +59,3 @@ Here are some ideas to get you started:
   <br>
   
 <h2 align="left"> 🛋 I'm working at  </h2>
-<img src="1.jpg" width="100%"/>
