@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <h2> 👩🏻‍💻 TeckStrack </h2>
 
-<div align=center> 
+<!-- <div align=center> 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br/>
 
 ![Chamroro's github stats](https://github-readme-stats.vercel.app/api?username=chamroro&show_icons=true&hide_border=true)
-<img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/>
+<img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/> -->
   <br>
   
 <h2 align="left"> 🛋 I'm working at  </h2>
