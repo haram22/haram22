@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello! Nice to see you 🌞 </h1>
-<h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeunkkim/">Instagram </a></h5>
+<h5 align="center"> If you want to contact me, visit <a href="https://velog.io/@haram2">Velog </a></h5>
 
 
 <br>
