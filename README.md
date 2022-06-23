@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello! Nice to see you 🌞 </h1>
 <h5 align="center"> If you want to contact me, visit <a href="https://velog.io/@haram2">Velog </a></h5>
 
-
+<!-- 
 <br>
 <h2> 🔥 My Positions </h2>
 <h5> I belong here now! </h5>
 <table>
   <tbody>
   </tbody>
-</table>
+</table> -->
 
 
 <br />
@@ -55,20 +55,15 @@ Here are some ideas to get you started:
 <img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/> -->
   <br>
   
-<h2 align="left"> 🛋 I'm working at  </h2>
+<!-- <h2 align="left"> 🛋 I'm working at  </h2> -->
 
-<h2 align="left"> ⭐️ My work </h2>
+<!-- <h2 align="left"> ⭐️ My work </h2> -->
 
 ![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
 
 <br>
 
-<br>
-
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
-<br>
-
-<br>
 
 
