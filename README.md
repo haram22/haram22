@@ -55,4 +55,4 @@ Here are some ideas to get you started:
   
 <h2 align="left"> 🛋 I'm working at  </h2>
 
-![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22ju&show_icons=true&hide_border=true)
+![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
