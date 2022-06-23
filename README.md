@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharam22&count_bg=%23E3B3A3&title_bg=%23555555&icon=baidu.svg&icon_color=%23A7C5EF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fharam22&count_bg=%23E3B3A3&title_bg=%23555555&icon=baidu.svg&icon_color=%23A7C5EF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
 
