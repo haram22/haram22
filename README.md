@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **haram22/haram22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,5 +53,7 @@ Here are some ideas to get you started:
   <br>
   
 <h2 align="left"> 🛋 I'm working at  </h2>
+
+<h2 align="left"> ⭐️ My work </h2>
 
 ![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
