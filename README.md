@@ -60,3 +60,8 @@ Here are some ideas to get you started:
 <h2 align="left"> ⭐️ My work </h2>
 
 ![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
