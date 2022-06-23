@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 ![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact)](https://github.com/haram22/github-readme-stats)
 
 <br>
 
