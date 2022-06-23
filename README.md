@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <h5> I belong here now! </h5>
 <table>
   <tbody>
-    <tr>
-      <td>
-          
-      </td>
-    </tr>
   </tbody>
 </table>
 
