@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+</a>
+<br>
+
 <h1 align="center"> Hello! Nice to see you 😆 </h1>
 <h5 align="center"> This is my <a href="https://haram22.tistory.com">tistory </a></h5>
 <h5 align="center"> If you want to contact me, visit <a href="https://seasoned-lathe-ce5.notion.site/14e5a7c38be544679ee22ac0b49a059e">notion </a></h5>
@@ -42,8 +46,17 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="left"> ⭐️ My work </h2> -->
 
-![haram22's github stats](https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&hide_border=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
+</a>
+<a href="https://github.com/haram22/github-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact&theme=dracula" width=40.2% />
+  
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=haram22&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+<br><br>
 <br>
 
 <br>
@@ -51,12 +64,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-172B4D?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-B8DBE4?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br>
-<div align=right> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=Demo&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact&theme=dracula">
 
 <br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haram22&row=3&column6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact)](https://github.com/haram22/github-readme-stats) -->
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=haram22&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
