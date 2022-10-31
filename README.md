@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhr9889)](https://solved.ac/kimhr9889)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)](https://solved.ac/kimhr9889/)
 
 <br>
 
@@ -73,7 +73,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=Demo&theme=dracula)
 
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)](https://solved.ac/kimhr9889/)
 
