@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello! Nice to see you 🌞 </h1>
+<h1 align="center"> Hello! Nice to see you 😆 </h1>
 <h5 align="center"> This is my <a href="https://haram22.tistory.com">tistory </a></h5>
 <h5 align="center"> If you want to contact me, visit <a href="https://seasoned-lathe-ce5.notion.site/14e5a7c38be544679ee22ac0b49a059e">notion </a></h5>
 
