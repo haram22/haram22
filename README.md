@@ -75,3 +75,5 @@ Here are some ideas to get you started:
 <br>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)](https://solved.ac/kimhr9889/)
+
