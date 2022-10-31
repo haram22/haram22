@@ -73,4 +73,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=Demo&theme=dracula)
 
 <br>
+<a href="https://www.notion.so/14e5a7c38be544679ee22ac0b49a059e" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=로고&logoColor=#FFFFFF"/></a>
+
 
