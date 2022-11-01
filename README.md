@@ -70,3 +70,5 @@ Here are some ideas to get you started:
 <br>
 
 ![Solved.ac kimhr9889](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)](https://solved.ac/kimhr9889/)
