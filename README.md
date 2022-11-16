@@ -71,3 +71,4 @@ Here are some ideas to get you started:
 
 ![Solved.ac kimhr9889](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)
 
+
