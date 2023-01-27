@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello! Nice to see you 😆 </h1>
 <h5 align="center"> This is my <a href="https://haram22.tistory.com">tistory </a></h5>
-<h5 align="center"> If you want to contact me, visit <a href="https://seasoned-lathe-ce5.notion.site/14e5a7c38be544679ee22ac0b49a059e">notion </a></h5>
+<h5 align="center"> If you want to contact me, visit <a href="">notion </a></h5>
 
 <!-- 
 <br>
@@ -64,11 +64,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-172B4D?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-B8DBE4?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=haram22&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-![Solved.ac kimhr9889](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhr9889)
-
 
