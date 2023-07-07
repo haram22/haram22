@@ -24,6 +24,21 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello! Nice to see you 😆 </h1>
 <h5 align="center"> This is my <a href="https://haram22.tistory.com">tistory </a></h5>
 <h5 align="center"> If you want to contact me, visit <a href="">notion </a></h5>
+<div style="display:flex; flex-direction:row;">
+    <h5 align="center"> This is my <a href="https://haram22.tistory.com">Instagram </a></h5>
+<!--     <h5 align="center"> This is my <a href="https://haram22.tistory.com">gmail </a></h5> -->
+  <h5 align="center"> This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn </a></h5>
+</div><br>
+
+<!--
+|my profile|aa|
+|---|---|
+|<img src="https://github.com/haram22/haram22/assets/97924765/a10c32f3-07b6-4d60-9040-15ee1cfa2dad" width=220></img>|
+<h5 align="center"> This is my <a href="https://haram22.tistory.com">Instagram </a></h5>
+<h5 align="center"> This is my <a href="https://haram22.tistory.com">gmail </a></h5>
+<h5 align="center"> This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn </a></h5>|
+-->
+
 
 <!-- 
 <br>
@@ -47,10 +62,10 @@ Here are some ideas to get you started:
 <!-- <h2 align="left"> ⭐️ My work </h2> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=haram22&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=50.2% />
 </a>
 <a href="https://github.com/haram22/github-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact&theme=dracula" width=40.2% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram22&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=38.2% />
   
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -64,4 +79,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-172B4D?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-B8DBE4?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharam22%2F&count_bg=%23FD98E2&title_bg=%23555555&icon=&icon_color=%23DFC0C0&title=hits&edge_flat=false"/></a>
