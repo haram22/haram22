@@ -31,7 +31,7 @@
 
 <!-- 
 <br>
-<h2> 🔥 My Positions </h2>
+<h2> 🔥 My Positions 🔥</h2>
 <h5> I belong here now! </h5>
 <table>
   <tbody>
