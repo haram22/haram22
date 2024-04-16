@@ -34,13 +34,13 @@
 <h5> I belong here now! </h5>
 <table>
   <tbody>
-      PARD iOS PART HEADER
+      PARD iOS PART HEADER 
   </tbody>
 </table>
 
 <br />
 <br>
-<h2> 👩🏻‍💻 TeckStrack </h2>
+<h2> 👩🏻‍💻 TeckStrack 👩🏻‍💻</h2>
 
 <!-- <div align=center> 
 
