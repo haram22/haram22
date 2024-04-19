@@ -27,8 +27,6 @@
 <h5 align="center"> This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn </a></h5>|
 -->
 
-
-
 <br>
 <h2> 🔥 My Positions 🔥</h2>
 <h5> I belong here now!!  </h5>
