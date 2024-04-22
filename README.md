@@ -11,11 +11,11 @@
 <div style="display:flex; flex-direction:row;">
     <h5 align="center"> This is my <a href="https://haram22.tistory.com">Instagram </a></h5>
 <!--     <h5 align="center"> This is my <a href="https://haram22.tistory.com">gmail </a></h5> -->
-  <h5 align="center">🐻 This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn 🐻</a></h5>
+  <h4 align="center">🐻 This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn 🐻</a></h4>
 
-<h5 align="center">🙈 This is my <a href="https://www.instagram.com/ram2__dev/">Instagram 🙈</a></h5>
+<h4 align="center">🙈 This is my <a href="https://www.instagram.com/ram2__dev/">Instagram 🙈</a></h4>
 
-<h5 align="center">🥕 This is my <a href="https://haram22.tistory.com/">Blog 🥕</a></h5>
+<h4 align="center">🥕 This is my <a href="https://haram22.tistory.com/">Blog 🥕</a></h4>
 
 
 <!--
