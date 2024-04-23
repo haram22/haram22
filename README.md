@@ -32,7 +32,7 @@
 <h5> I belong here now!!  </h5>
 <table>
   <tbody>
-      PARD iOS PART HEADER 
+      CLUB PARD - iOS PART HEADER
   </tbody>
 </table>
 
