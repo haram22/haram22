@@ -5,13 +5,7 @@
 </a>
 <br>
 
-<h1 align="center"> Hello! Nice to see you 😆 </h1>
-<h5 align="center"> This is my <a href="https://haram22.tistory.com">tistory </a></h5>
-<h5 align="center"> If you want to contact me, visit <a href="">notion </a></h5>
-<div style="display:flex; flex-direction:row;">
-    <h5 align="center"> This is my <a href="https://haram22.tistory.com">Instagram </a></h5>
-<!--     <h5 align="center"> This is my <a href="https://haram22.tistory.com">gmail </a></h5> -->
-  <h4 align="center">🐻 This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn 🐻</a></h4>
+<h4 align="center">🐻 This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn 🐻</a></h4>
 
 <h4 align="center">🙈 This is my <a href="https://www.instagram.com/ram2__dev/">Instagram 🙈</a></h4>
 
