@@ -27,7 +27,7 @@
 <h5> I belong here now!!  </h5>
 <table>
   <body>
-      <h6> CLUB PARD - iOS PART HEADER <h6>
+      <h4> CLUB PARD - iOS PART HEADER <h4>
   </tbody>
 </table>
 
