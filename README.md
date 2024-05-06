@@ -28,7 +28,6 @@
   </tbody>
 </table>
 
-<br>
 <h2> 👩🏻‍💻 TeckStrack 👩🏻‍💻</h2>
 
 <!-- <div align=center> 
