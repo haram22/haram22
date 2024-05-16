@@ -32,7 +32,7 @@
 <!-- <div align=center> 
 
   
-<!-- <h2 align="left"> 🛋 I'm working at  </h2> -->
+
 
 <!-- <h2 align="left"> ⭐️ My work </h2> -->
 
@@ -51,6 +51,8 @@
 <br><br>
 <br>
 
+<h2 align="left"> 🛋 I'm working at  </h2>
+Handong Global University
 <br>
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-F05032?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
