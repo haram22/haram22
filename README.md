@@ -26,10 +26,11 @@
 </table>
 
 <br>
-
+<!--
 <h2 align="left"> 🛋 I'm working at  </h2>
 Handong Global University
-<br>
+<br><br> -->
+
 
 <h2> 👩🏻‍💻 TeckStrack 👩🏻‍💻</h2>
 
