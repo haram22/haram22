@@ -59,7 +59,7 @@ Handong Global University
 
 <!-- <img src="https://img.shields.io/badge/swift?style=for-the-badge&logo=swift&logoColor=red"> -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=1" width="1000" height="120"/>
 </a>
  
 <br>
