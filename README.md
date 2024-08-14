@@ -58,7 +58,9 @@ Handong Global University
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-F05032?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <!-- <img src="https://img.shields.io/badge/swift?style=for-the-badge&logo=swift&logoColor=red"> -->
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
  
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharam22%2F&count_bg=%23FD98E2&title_bg=%23555555&icon=&icon_color=%23DFC0C0&title=hits&edge_flat=false"/></a>
