@@ -58,8 +58,13 @@ Handong Global University
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/dart-F50057?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/c-F7A81B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-F05032?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <!-- <img src="https://img.shields.io/badge/swift?style=for-the-badge&logo=swift&logoColor=red"> -->
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/haram22/gitanimals">
   <img src="https://render.gitanimals.org/lines/haram22?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=2" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=3" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=4" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=5" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/haram22?pet-id=6" width="1000" height="120"/>
 </a>
 
  <br>
