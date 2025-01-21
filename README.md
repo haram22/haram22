@@ -19,7 +19,7 @@
 <h5 align="center"> This is my <a href="https://haram22.tistory.com">gmail </a></h5>
 <h5 align="center"> This is my <a href="https://www.linkedin.com/in/%ED%95%98%EB%9E%8C-%EA%B9%80-482773263">LinkedIn </a></h5>|
 -->
-
+<!--
 <h2> 🔥 My Positions 🔥</h2>
 <h5> I belong here now!!  </h5>
 <table>
@@ -27,6 +27,7 @@
       <h4> CLUB PARD - iOS PART HEADER <h4>
   </tbody>
 </table>
+-->
 
 <br>
 <!--
