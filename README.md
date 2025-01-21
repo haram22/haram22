@@ -35,7 +35,7 @@
 Handong Global University
 <br><br> -->
 
-<h2> 👩🏻‍💻 TeckStrack 👩🏻‍💻</h2>
+<h2> 👩🏻‍💻 TeckStack 👩🏻‍💻</h2>
 
 <!-- <div align=center> 
 <!-- <h2 align="left"> ⭐️ My work </h2> -->
