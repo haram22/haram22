@@ -11,8 +11,5 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=haram22&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>-->
 </a>
 
-<a href="https://github.com/haram22/gitanimals">
-  <img src="https://render.gitanimals.org/lines/haram22?pet-id=1" width="1000" height="120"/>
-</a>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharam22%2F&count_bg=%23FD98E2&title_bg=%23555555&icon=&icon_color=%23DFC0C0&title=hits&edge_flat=false"/></a>
