@@ -11,6 +11,7 @@
 </a>
 <br><br>
 
+<!--
 ## Experience
 ### 1. **PARD (동아리)** | 운영진 · iOS 파트장  
 2023.04.01 - 2024.07.19  
@@ -34,6 +35,7 @@
 - **개발 교육 멘토**로 활동하며 학습 효과를 높이기 위한 자체 **Boilerplate**를 제작하고, **Flutter 교육**을 진행하여 회원들의 기술 향상을 도왔습니다.
 
 ---
+-->
 
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharam22%2F&count_bg=%23FD98E2&title_bg=%23555555&icon=&icon_color=%23DFC0C0&title=hits&edge_flat=false"/></a>
