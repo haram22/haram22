@@ -13,7 +13,7 @@
 - ```우수상```	[SW Festival 스마트 애플리케이션](https://github.com/haram22/ZeroSoda22.git) (2022 한동대학교)<br>
 - ```장려상```	[SW Festival 스마트 애플리케이션](https://github.com/haram22/mobile-app-project.git) (2022 한동대학교)<br>
 - ```우수상```	[새싹톤](https://github.com/haram22/sessakthon.git) (2023 구름EDU & 서울경제진흥원)<br>
-- ```최우수상```	[Long Hackathon] (2023 PARD)<br>
+- ```최우수상```  [Long Hackathon](https://github.com/haram22/Sabotage_Client.git) (2023 PARD)<br>
 - ```우수상```	[SW Festival 스마트 SW 공모전](https://github.com/haram22/Sabotage_Client.git) (2024 한동대학교)<br>
 - ```우수상```	[캡스톤 Festival](https://github.com/haram22/Liku_App.git) (2024 한동대학교)<br>
 - ```은상```	[대학생논문경진대회](https://github.com/haram22/Liku_App.git) (2024 한국정보기술학회)<br>
