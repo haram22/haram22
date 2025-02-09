@@ -9,14 +9,14 @@
 
 ### 🏆 Prizes
 
-- ```우수상``` [하계 디자인 스프린트 (2022 한동대학교)](https://github.com/haram22/ZeroSoda22.git)<br>
-- ```우수상```	[SW Festival 스마트 애플리케이션 (2022 한동대학교)](https://github.com/haram22/ZeroSoda22.git)<br>
-- ```장려상```	[SW Festival 스마트 애플리케이션 (2022 한동대학교)](https://github.com/haram22/mobile-app-project.git)<br>
-- ```우수상```	[새싹톤 (2023 구름EDU & 서울경제진흥원)](https://github.com/haram22/sessakthon.git)<br>
-- ```최우수상```	[Long Hackathon (2023 PARD)](https://github.com/haram22/Sabotage_Client.git)<br>
-- ```우수상```	[SW Festival 스마트 SW 공모전 (2024 한동대학교)](https://github.com/haram22/Sabotage_Client.git)<br>
-- ```우수상```	[캡스톤 Festival (2024 한동대학교)](https://github.com/haram22/Liku_App.git)<br>
-- ```은상```	[대학생논문경진대회 (2024 한국정보기술학회)](https://github.com/haram22/Liku_App.git)<br>
+- ```우수상``` [하계 디자인 스프린트](https://github.com/haram22/ZeroSoda22.git) (2022 한동대학교)<br>
+- ```우수상```	[SW Festival 스마트 애플리케이션](https://github.com/haram22/ZeroSoda22.git) (2022 한동대학교)<br>
+- ```장려상```	[SW Festival 스마트 애플리케이션](https://github.com/haram22/mobile-app-project.git) (2022 한동대학교)<br>
+- ```우수상```	[새싹톤](https://github.com/haram22/sessakthon.git) (2023 구름EDU & 서울경제진흥원)<br>
+- ```최우수상```	[Long Hackathon] (2023 PARD)<br>
+- ```우수상```	[SW Festival 스마트 SW 공모전](https://github.com/haram22/Sabotage_Client.git) (2024 한동대학교)<br>
+- ```우수상```	[캡스톤 Festival](https://github.com/haram22/Liku_App.git) (2024 한동대학교)<br>
+- ```은상```	[대학생논문경진대회](https://github.com/haram22/Liku_App.git) (2024 한국정보기술학회)<br>
 <br>
 
 ### 👩🏻‍💻 TeckStack 👩🏻‍💻
