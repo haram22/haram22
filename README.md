@@ -22,9 +22,6 @@
 - 은상	[대학생논문경진대회](https://github.com/haram22/Liku_App.git) (2024 한국정보기술학회)<br>
 <br>
 
-### 🪪 Certification
-- 정보처리기사
-
 ### 👩🏻‍💻 TeckStack 👩🏻‍💻
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
