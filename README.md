@@ -13,7 +13,6 @@
 ### 🏆 Prizes
 
 - 우수상 [하계 디자인 스프린트](https://github.com/haram22/ZeroSoda22.git) (2022 한동대학교)<br>
-
 - 우수상	[SW Festival 스마트 애플리케이션](https://github.com/haram22/ZeroSoda22.git) (2022 한동대학교)<br>
 - 장려상	[SW Festival 스마트 애플리케이션](https://github.com/haram22/mobile-app-project.git) (2022 한동대학교)<br>
 - 우수상	[새싹톤](https://github.com/haram22/sessakthon.git) (2023 구름EDU & 서울경제진흥원)<br>
